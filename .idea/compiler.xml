@@ -6,6 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
+=======
+        <module name="MorningProjects" />
+>>>>>>> 3722ff8470ba8ece88b654b915c2d7db266b6bea
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="12">
