@@ -6,10 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="MorningPractice" />
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 5cf81264f7d0e2777774a891c6fa23ea7045e73a
         <module name="MorningProjects" />
+>>>>>>> 3722ff8470ba8ece88b654b915c2d7db266b6bea
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="12" />
+    <bytecodeTargetLevel target="12">
+      <module name="MorningProjects" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
